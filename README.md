@@ -1,3 +1,3 @@
 # OSS-Example
 
-This is just abc sample with a typo that we can fix.
+This is just the perfect sample with a typo that we can fix.
